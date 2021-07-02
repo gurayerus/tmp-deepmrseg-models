@@ -4,7 +4,7 @@ This repository is a collection of models pre-trained using the [DeepMRSeg packa
 
 ### Usage
 
-Users can run a model for a specific task on their MR images using the tools provided as part of the [DeepMRSeg package](https://github.com/CBICA/DeepMRSeg). This process involves installing the DeepMRSeg package, calling the download script with the selected task as input, and calling the application script with the downloaded model and user images as input. Please see [DeepMRSeg README file](https://github.com/CBICA/DeepMRSeg#readme) for the details.
+Users can run a model for a specific task on their MR images using the tools provided as part of the [DeepMRSeg package](https://github.com/CBICA/DeepMRSeg). This process involves installing the DeepMRSeg package, calling the download script with the selected task/model as input, and calling the application script with the selected task and user image(s) as input. Please see [DeepMRSeg README file](https://github.com/CBICA/DeepMRSeg#readme) for the details.
 
 ### Segmentation Tasks/Models <a name="seg_tasks"/>
 
