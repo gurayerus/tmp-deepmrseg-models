@@ -10,7 +10,7 @@ Users can run a model for a specific task on their MR images using the tools pro
 
 This table lists segmentation tasks/models that are included in this model repository. Please note that this table is expected to evolve with time, as new models for new or existing tasks will be added. To ensure reproducibility, older models for a task are also kept in the repository. These models are tagged using a model name that includes a version number and a time stamp. Using the download script, the user can download a model either by indicating the task name (to download the latest model for a task, indicated here with <b>bold font</b>) or the specific model name (to download any selected model).
 
-|Task Name |Model Name |Description |Date Upload |File Name |
+|Task Name |Model Name |Date Upload |Description |File Name |
 |-|-|-|-|-|
 |<b>BrainSeg</b>|deepmrseg_brain_v1.1|07/2021|A model trained for segmenting the brain mask|deepmrseg_brainmask_v1.1.zip|
 |<b>WMLesionSeg</b>|deepmrseg_wml_v1.1|07/2021|A model trained for segmenting white matter lesions|deepmrseg_wml_v1.1.zip|
