@@ -8,7 +8,7 @@ Users can run a model for a specific task on their MR images using the tools pro
 
 ### Segmentation Tasks/Models <a name="seg_tasks"/>
 
-This table lists segmentation tasks/models that are included in this model repository. Please note that this table is expected to evolve with time, as new models for new or existing tasks will be added. To ensure reproducibility, older models for a task are also kept in the repository. These models are tagged using a model name that includes a version number and a time stamp. Using the download script, the user can download a model either by indicating the task name (to download the latest model for a task, indicated here with bold font) or the specific model name (to download any selected model).
+This table lists segmentation tasks/models that are included in this model repository. Please note that this table is expected to evolve with time, as new models for new or existing tasks will be added. To ensure reproducibility, older models for a task are also kept in the repository. These models are tagged using a model name that includes a version number and a time stamp. Using the download script, the user can download a model either by indicating the task name (to download the latest model for a task, indicated here with <b>bold font</b>) or the specific model name (to download any selected model).
 
 |Task Name |Model Name |Description |Date Upload |File Name |
 |-|-|-|-|-|
