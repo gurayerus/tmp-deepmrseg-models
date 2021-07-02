@@ -19,7 +19,7 @@ This table lists segmentation tasks/models that are included in this model repos
 |<b>DLICV</b>|deepmrseg_dlicv_v1.1|07/2021|A model trained for segmenting intra-cranial volume|deepmrseg_dlicv_v1.1.zip|
 
 ## Contributions
-Please contact the developers for assistance if you would like to contribute to this repository by running DeepMRSeg training on your data with ground-truth labels.
+Please contact the developers for assistance if you would like to contribute to this repository by adding a new model trained using your dataset with ground-truth labels for a specific task.
 
 # License
 TODO
