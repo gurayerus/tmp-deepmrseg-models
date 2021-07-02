@@ -15,7 +15,7 @@ This table lists segmentation tasks/models that are included in this model repos
 |<b>BrainSeg</b>|deepmrseg_brain_v1.1|07/2021|A model trained for segmenting the brain mask|deepmrseg_brainmask_v1.1.zip|
 |<b>WMLesionSeg</b>|deepmrseg_wml_v1.1|07/2021|A model trained for segmenting white matter lesions|deepmrseg_wml_v1.1.zip|
 |<b>HippoSeg</b>|deepmrseg_hippo_v1.1|07/2021|A model trained for segmenting hippocampus sub-parts|deepmrseg_hippo_v2.1.zip|
-|HippoSeg|deepmrseg_hippo_v1.1|04/2021|A model trained for segmenting hippocampus sub-parts|deepmrseg_hippo_v1.1.zip|
+|HippoSeg|deepmrseg_hippo_v2.1|04/2021|A model trained for segmenting hippocampus sub-parts|deepmrseg_hippo_v1.1.zip|
 |<b>DLICV</b>|deepmrseg_dlicv_v1.1|07/2021|A model trained for segmenting intra-cranial volume|deepmrseg_dlicv_v1.1.zip|
 |-|-|-|-|
 
